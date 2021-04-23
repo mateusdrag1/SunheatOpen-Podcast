@@ -1,0 +1,69 @@
+{
+  "episodes": [
+    {
+      "id": "marcelo-szwarcgun",
+      "title": "Sun Heat Talks #1 | MARCELO SZWARCGUN",
+      "members": "Bruno Bezerra, Eduardo Freire e Marcelo Szwarcgun",
+      "published_at": "2021-03-21 16:35:40",
+      "thumbnail": "http://i3.ytimg.com/vi/YEKDkNBVnQ8/maxresdefault.jpg",
+      "description": "<p>Marcelo Szwarcgun é co-fundador das bClutch, empresa que organiza campeonatos semanais de Call of Duty: Warzone.</p> <p>No episódio piloto, conversamos sobre o início de sua paixão pelos eSports, os desafios de empreender no ramo e os próximos passos da bClutch</p>",
+      "file": {
+        "url": "https://docs.google.com/uc?export=download&id=129Gzxt-EBrjPLRSR40bDE1HhftV5tnTQ",
+        "type": "audio/x-m4a",
+        "duration": 3926
+      }
+    },
+    {
+      "id": "caca-do-palio",
+      "title": "Sun Heat Talks #2 | CACÁ DO PÁLIO",
+      "members": "Bruno Bezerra, Eduardo Freire e Cacá do Pálio",
+      "published_at": "2021-03-28 16:35:40",
+      "thumbnail": "http://i3.ytimg.com/vi/WIQLzy_xEGM/maxresdefault.jpg",
+      "description": "<p>Cassiano, mais conhecido no cenário de eSports universitário como Cacá do Palio, é capitão do time universitário de League of Legends da UFRN e em nossa conversa compartilhou a experiência dos atletas universitários e os desafios de profissionalizar e consolidar o cenário de eSports universitário.</p>",
+      "file": {
+        "url": "https://docs.google.com/uc?export=download&id=1Vexyussnl826WsOliHNE4y-nFJ1NNsTI",
+        "type": "audio/x-m4a",
+        "duration": 3487
+      }
+    },
+    {
+      "id": "avelino-castro",
+      "title": "Sun Heat Talks #3 | AVELINO CASTRO",
+      "members": "Bruno Bezerra, Eduardo Freire e Avelino Castro",
+      "published_at": "2021-04-04 16:35:40",
+      "thumbnail": "http://i3.ytimg.com/vi/OJPN0_pFSDM/maxresdefault.jpg",
+      "description": "<p>Avelino é Psicólogo e atua com eSports desde 2017 e conversou conosco sobre os desafios dessa recente profissão e também sobre a sua importância.</p>",
+      "file": {
+        "url": "https://docs.google.com/uc?export=download&id=11yV9OgGNqppnCJpz_KRbceSK423vH_pq",
+        "type": "audio/x-m4a",
+        "duration": 4001
+      }
+    },
+    {
+      "id": "moondded",
+      "title": "Sun Heat Talks #4 | MOONDDED",
+      "members": "Bruno Bezerra, Eduardo Freire e Moondded",
+      "published_at": "2021-04-11 16:35:40",
+      "thumbnail": "http://i3.ytimg.com/vi/n9X6pFrqJjQ/maxresdefault.jpg",
+      "description": "<p>Moonded é cofundadora da Sakuras eSports, uma organização 100% feminina de esportes eletrônicos.</p> <p>Em nossa conversa, falamos sobre a história das Sakuras, como surgiu, o porquê de ter surgido e os próximos passos da empresa.</p> <p>Além disso, falamos sobre os desafios de empreender no ramo e sobre a história da própria Moonded.</p>",
+      "file": {
+        "url": "https://docs.google.com/uc?export=download&id=1JdZoyYx1wtE-ZdxtXuSvij5yXkNmJqKA",
+        "type": "audio/x-m4a",
+        "duration": 4184
+      }
+    },
+    {
+      "id": "eric-teixeira",
+      "title": "Sun Heat Talks #5 | ERIC TEIXEIRA",
+      "members": "Bruno Bezerra, Eduardo Freire e Eric Teixeira",
+      "published_at": "2021-04-17 16:35:40",
+      "thumbnail": "http://i3.ytimg.com/vi/1XKn6wLjJTs/maxresdefault.jpg",
+      "description": "<p>Eric Teixeira é Fundador e CEO do Mais Esports, maior portal de notícias de eSports do Brasil.</p> <p>Na nossa conversa, ele comentou como caiu de paraquedas nesse mundo do empreendedorismo e como ele descobriu a possibilidade de fazer o que ama e ao mesmo tempo ganhar dinheiro.</p>",
+      "file": {
+        "url": "https://docs.google.com/uc?export=download&id=19cF-tAkLYTRgid84P5unn1vMl6Mov-nQ",
+        "type": "audio/x-m4a",
+        "duration": 3605
+      }
+    }
+  ]
+}
